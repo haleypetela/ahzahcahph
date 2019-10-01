@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thaesheeba.sfoj.xyz/sitemap.xml
